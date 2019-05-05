@@ -6,16 +6,6 @@
 
 该项目基于Taro，构建了一个时装衣橱的项目演示，涉及了一个电商平台完整的业务逻辑和功能点，如果这个项目能驾驭的了，相信大部分公司的其他React项目也就不在话下。
 
-如遇网络不佳，请移步[国内镜像加速节点](https://gitee.com/easytuan/taro-msparis)
-
-# 效果演示
-
-[查看demo请戳这里](http://ms.caibowen.net/)（请用chrome手机模式预览）
-
-### H5版 && 微信小程序版
-
-<img src="screenshots/qr-code.png" width="250"/> <img src="screenshots/weapp-code.jpg" width="250"/>
-
 
 # 技术栈
 
