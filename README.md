@@ -25,11 +25,8 @@ React + Taro + Dva + Sass + ES6/ES7
 
 ```
 
-git clone git@github.com:EasyTuan/taro-msparis.git
-
-# 国内镜像加速节点:git@gitee.com:easytuan/taro-msparis.git
-
-cd taro-msparis
+git clone git@github.com:ecstAsy/TravelBook.git
+# 国内镜像加速节点:git@gitee.com:ecstAsy/TravelBook.git
 
 # 全局安装taro脚手架
 npm install -g @tarojs/cli@1.2.2
@@ -44,7 +41,7 @@ npm install
 # 微信小程序
 npm run dev:weapp
 
-# 支付宝小程序
+<!-- # 支付宝小程序
 npm run dev:alipay
 
 # 百度小程序
@@ -57,7 +54,7 @@ npm run dev:tt
 npm run dev:h5
 
 # React Native
-npm run dev:rn
+npm run dev:rn -->
 
 # pages模版快速生成
 npm run tep `文件名`
@@ -87,14 +84,11 @@ npm run tep `文件名`
 
 ## 目标功能
 
-- [x] 美衣列表 -- 完成
-- [x] 美衣详情 -- 完成
-- [x] 登录、注册 -- 完成
+- [x] 热门游记 -- 完成
+- [x] 游记详情 -- 完成
+- [x] 日记详情 -- 完成
 - [x] 个人中心 -- 完成
-- [x] 优惠券 -- 完成
-- [x] 衣袋（购物车） -- 完成
-- [x] 收货地址 -- 完成
-- [ ] 会员中心 -- 开发中
+- [ ] 个人提交 -- 开发中
 
 # 业务介绍
 
@@ -126,21 +120,6 @@ npm run tep `文件名`
     │   └── index.html
     ├── package.json
     └── template.js            // pages模版快速生成脚本,执行命令 npm run tep `文件名`
-
-## 部分截图展示
-
-### 首页 && 商品详情
-
-<img src="screenshots/1.png" width="375px" height="667px" /> <img src="screenshots/2.png" width="375px" height="667px" />
-
-### 衣袋 && 我的
-
-<img src="screenshots/3.png" width="375px" height="667px" /> <img src="screenshots/4.png" width="375px" height="667px" />
-
-### 登录 && 优惠券
-
-<img src="screenshots/5.png" width="375px" height="667px" /> <img src="screenshots/6.png" width="375px" height="667px" />
-
 
 # 说明
 
@@ -176,15 +155,6 @@ npm run tep `文件名`
 ### 字节跳动小程序官方文档
 
 > https://microapp.bytedance.com/
-
-
-# 赞助
-
-如有帮助，欢迎赞助
-
-收到赞助款后，我会及时更新[赞助墙](https://caibowen.net/sponsor)
-
-<img src="screenshots/wechat.jpg" width="200px" /> <img src="screenshots/alipay.jpg" width="200px" />
 
 # License
 
